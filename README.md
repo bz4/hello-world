@@ -1,2 +1,3 @@
 # hello-world
-try out
+hi there
+this is a new adventure. Have fun!
